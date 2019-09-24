@@ -11,6 +11,11 @@ html {
   /* 1rem =10px */
   /* to change default font size given by browser to 10px (10/16)*100 */
   font-size: 62.5%;
+
+  @media (max-width:600px) {
+    font-size:50%;
+    
+  }
 }
 
 body {

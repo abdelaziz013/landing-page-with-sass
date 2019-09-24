@@ -13,7 +13,7 @@
 
     // attribue selector it will select all element with attribue class start with col
     [class^="col-"]{
-        background-color: $color-grey-light-1;
+        // background-color: $color-grey-light-1;
         float: left;
         &:not(:last-child) {
             margin-right: $gutter-horizontal;
