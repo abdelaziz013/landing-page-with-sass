@@ -18,6 +18,13 @@
         text-align: center;
         cursor: pointer;
 
+        @include respond(tap-port){
+            top: 2.5rem;
+            right: 2.5rem;
+        }
+      
+
+
     }
 
     &__background {
@@ -31,7 +38,11 @@
         z-index: 1000;
         transition: transform .8s cubic-bezier(.86, 0, .07, 1);
 
-        // transform:scale(80);
+        @include respond(tap-port){
+            top: 3.5rem;
+            right: 3.5rem;
+        }
+      
 
     }
 
