@@ -1,14 +1,1 @@
 hi this is branch
-2nd commit in branch
-
-
-* ba0fe62 (new-feature) 2nd commit in new feature branch
-* 32ebfd9 (origin/new-feature) ist commit on branch
-| * 9a56f09 (HEAD -> master, origin/master, origin/HEAD) some expermint
-|/
-* ec85ffa make web page responsive
-* bbdb442 add footer and navigation
-* 41703ba add booking section
-* 98839b5 stories section completed
-* c09dd5b add tours and stories section
-* 379d5f8 intial commit
